@@ -1,3 +1,4 @@
+Python 3.6+
 streamlit
 matplotlib
 seaborn
@@ -5,3 +6,8 @@ urlextract
 wordcloud
 pandas
 emoji
+TensorFlow 
+PyTorch
+Scikit-learn
+Pandas
+Advertools
