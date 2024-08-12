@@ -6,9 +6,6 @@
 This project focuses on performing sentiment analysis on text data using BERT (Bidirectional Encoder Representations from Transformers) and on Emojis using Emoji Sentiment Lexicon. The primary objective is to classify text into different sentiment categories (e.g., positive, negative, neutral) based on the content of the text. The project includes preprocessing steps like data cleaning, preprocessing, analysing various statistics and performing sentiment analysis on both text and emojis.
 
 
-## Installation
-
-
 
 
 
